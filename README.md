@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumnima Giri</h1>
 <h3 align="center">A Data Science Enthusiast</h3>
 
-
-![image](https://github.com/user-attachments/assets/db2314a5-82e7-45d1-9795-8ddfa52f5131)
+![image](https://github.com/user-attachments/assets/0289ed58-f1df-4766-8059-a4a3136d9d11)
 
 
 
@@ -11,8 +10,6 @@
 - 🌱 I’m currently learning **Machine Learning and Deep Learning.**
 
 - 📫 How to reach me **sumnimaag@gmail.com**
-
-![image](https://github.com/user-attachments/assets/52056f6a-a1b5-4d53-9f16-7a02d06ed192)
 
 
 
