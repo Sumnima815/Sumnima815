@@ -12,7 +12,8 @@
 
 - 📫 How to reach me **sumnimaag@gmail.com**
 
-- ![image](https://github.com/user-attachments/assets/63e56edb-1528-4789-8f14-31d46052878a)
+![image](https://github.com/user-attachments/assets/52056f6a-a1b5-4d53-9f16-7a02d06ed192)
+
 
 
 <h3 align="left">Connect with me:</h3>
