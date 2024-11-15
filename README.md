@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sumnima Giri</h1>
 <h3 align="center">A Data Science Enthusiast</h3>
 
+
+![image](https://github.com/user-attachments/assets/db2314a5-82e7-45d1-9795-8ddfa52f5131)
+
+
+
 - 🔭 I’m currently working on **final year project on Video in Video Steganography.**
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning.**
 
 - 📫 How to reach me **sumnimaag@gmail.com**
+
+- ![image](https://github.com/user-attachments/assets/63e56edb-1528-4789-8f14-31d46052878a)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
